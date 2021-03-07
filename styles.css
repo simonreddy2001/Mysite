@@ -1,0 +1,139 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625em;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.contact-me {
+  line-height: 3;
+}
+
+.web {
+  text-decoration: underline;
+}
+
+.intro {
+  width: 60%;
+  margin: auto;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 50px;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6;
+}
+p {
+  line-height: 2;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.salesforce-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.coding-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+hr {
+  border: dotted #EAF6F6 6PX;
+  border-bottom: none;
+  margin: 100PX auto;
+  width: 4%;
+}
+
+.skill-discription {}
+
+.bottom-container {
+  background-color: #66BFBF;
+
+  line-height: 3;
+  margin-top: 50px;
+  padding: 50px 0 20px;
+}
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.btn{
+  display: inline-block;
+  padding: 0 20px 0 20px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #11CDD4;
+  border: none;
+  border-radius: 15px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btn:hover {background-color: #30E3CB}
+
+.btn:active {
+  background-color: #30E3CB;
+}
+.copyright{
+  color: #eaf6f6;
+  font-size: 0.75em;
+  padding: 0 20px;
+
+}
